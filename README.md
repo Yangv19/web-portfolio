@@ -2,7 +2,6 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Installation](#installation)
 * [License](#license)
 * [Contact](#contact)
 
@@ -14,13 +13,6 @@ This is the source code for my portfolio website
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
-
-### Installation
-1. Clone the repo
-```sh
-git clone https://github.com/v6yang/web-portfolio.git
-```
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -29,4 +21,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Vincent Yang - v6yang@uwaterloo.ca
 
-Project Link: [https://github.com/v6yang/web-portfolio](https://github.com/v6yang/web-portfolio)
+Project Link: [Click here](https://vincent-profile.netlify.app/)
