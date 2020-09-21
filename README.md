@@ -21,4 +21,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Vincent Yang - v6yang@uwaterloo.ca
 
-Project Link: [Click here](https://vincent-profile.netlify.app/)
+Project Link: [Click here](https://vincent-yang.com/)
