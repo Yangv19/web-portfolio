@@ -8,15 +8,6 @@ jQuery(($) => {
 		}
 	})
 
-	// Preloader
-	$(window).on('load', () => {
-		if ($('#preloader').length) {
-			$('#preloader').delay(100).fadeOut('slow', () => {
-				$(this).remove();
-			});
-		}
-	});
-
 	// Back to top button
 	$(window).scroll(() => {
 		if ($(this).scrollTop() > 100) {
